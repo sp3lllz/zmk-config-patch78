@@ -1,0 +1,13 @@
+file_format: "1"
+id: patch78
+name: patch78
+type: shield
+url: https://github.com/sp3lllz/zmk-config-patch78
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+siblings:
+  - patch78_left
+  - patch78_right
