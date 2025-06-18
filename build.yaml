@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: patch78_left
+    shield: patch78_left nice_view_adapter nice_view
   - board: nice_nano_v2
-    shield: patch78_right
+    shield: patch78_right nice_view_adapter nice_view
